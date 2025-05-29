@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 7c148dd66145c804491fde7fcdb2961b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -6660676099567428641
+    second: Armature|A_FirstPersonPlayer_BiggerBodyDog_Jumpscare
+  - first:
+      74: 7441854404798324595
+    second: Armature|A_FirstPersonPlayer_ColorPlush_Jumpscare
+  - first:
+      74: 2714832282300298206
+    second: Armature|A_FirstPersonPlayer_councilorsoffice
+  - first:
+      74: -6439420404756308469
+    second: Armature|A_FirstPersonPlayer_CrouchEnter
+  - first:
+      74: -9134268066195129984
+    second: Armature|A_FirstPersonPlayer_CrouchExit
+  - first:
+      74: -2216848662785256399
+    second: Armature|A_FirstPersonPlayer_CrouchPose
+  - first:
+      74: -1779191565270837678
+    second: Armature|A_FirstPersonPlayer_Falling
+  - first:
+      74: 6091203154806926158
+    second: Armature|A_FirstPersonPlayer_FlashlightOff
+  - first:
+      74: 1210244417031305232
+    second: Armature|A_FirstPersonPlayer_FlashlightOn
+  - first:
+      74: 8585347338540529289
+    second: Armature|A_FirstPersonPlayer_GrabpackShootFlare
+  - first:
+      74: 8487912549161015987
+    second: Armature|A_FirstPersonPlayer_GrabpackShootIn
+  - first:
+      74: -7783741149925909602
+    second: Armature|A_FirstPersonPlayer_GrabpackShootOut
+  - first:
+      74: 173272650126134235
+    second: Armature|A_FirstPersonPlayer_HallucinationHuggyJumpscare
+  - first:
+      74: 4177780484235764682
+    second: Armature|A_FirstPersonPlayer_HandSwitch
+  - first:
+      74: -3297087284520795620
+    second: Armature|A_FirstPersonPlayer_Idle
+  - first:
+      74: -8583694730571197238
+    second: Armature|A_FirstPersonPlayer_Jump
+  - first:
+      74: -9055222372227224900
+    second: Armature|A_FirstPersonPlayer_KissyPoppyEncounter01_Tackle
+  - first:
+      74: -7345901470185964833
+    second: Armature|A_FirstPersonPlayer_Land
+  - first:
+      74: 7363015838684923994
+    second: Armature|A_FirstPersonPlayer_Lower
+  - first:
+      74: -2429799406490924301
+    second: Armature|A_FirstPersonPlayer_MovementDirection_Backwards
+  - first:
+      74: -1597177057724308916
+    second: Armature|A_FirstPersonPlayer_MovementDirection_Forward
+  - first:
+      74: 6290631983534315343
+    second: Armature|A_FirstPersonPlayer_MovementDirection_Left
+  - first:
+      74: 2337081521756042498
+    second: Armature|A_FirstPersonPlayer_MovementDirection_Right
+  - first:
+      74: 7921951229314271170
+    second: Armature|A_FirstPersonPlayer_NappyCatDeath_01
+  - first:
+      74: -8272597722401285021
+    second: Armature|A_FirstPersonPlayer_NappyCatDeath_02
+  - first:
+      74: 7851455178664978880
+    second: Armature|A_FirstPersonPlayer_NappyCatNormalJumpscare
+  - first:
+      74: -2131904873543557544
+    second: Armature|A_FirstPersonPlayer_OpeningChuteA
+  - first:
+      74: -6520851245228183423
+    second: Armature|A_FirstPersonPlayer_OpeningChuteB
+  - first:
+      74: 1017357732023444754
+    second: Armature|A_FirstPersonPlayer_Raise
+  - first:
+      74: 3668752836245277372
+    second: Armature|A_FirstPersonPlayer_Run
+  - first:
+      74: 6639206391218665150
+    second: Armature|A_FirstPersonPlayer_StandingUp
+  - first:
+      74: 360773527647975283
+    second: Armature|A_FirstPersonPlayer_StandingUp_InitialPose
+  - first:
+      74: 1690741647599625713
+    second: Armature|A_FirstPersonPlayer_Teacher_Jumpscare
+  - first:
+      74: 8869322168205394133
+    second: Armature|A_FirstPersonPlayer_Walk
+  - first:
+      74: -191871963923569505
+    second: Armature|A_FirstPersonPlayer_WalkToStop
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
